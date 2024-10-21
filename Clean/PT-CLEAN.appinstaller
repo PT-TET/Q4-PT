@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appinstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2017">
+  <mainbundle name="MyApp" version="1.0.0.0" publisher="CN=MyCompany">
+    <uri source="https://example.com/myapp.appx" />
+  </mainbundle>
+  <dependencies>
+    <dependency name="Microsoft.NET.CoreRuntime" version="2.1.0" publisher="CN=Microsoft Corporation" />
+  </dependencies>
+</appinstaller>
